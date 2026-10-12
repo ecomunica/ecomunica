@@ -1,4 +1,4 @@
-# ecomunica` 👋
+# ecomunica 👋
 
 **Software Development • Automação • IA aplicada**
 
